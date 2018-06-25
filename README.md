@@ -7,5 +7,8 @@ for level 2 you need 200
 for level 4 you need 400
 etc.
 
+# Download
+https://www.pylott.yt/ress/games/?dir=reminer
+
 # License
 mit
